@@ -12,8 +12,8 @@
 
 1. Клонируй репозиторий:
 
-```bash
-git clone https://github.com/MRXafterKRASS/Summarization.git
+
+```git clone https://github.com/MRXafterKRASS/Summarization.git
 cd Summarization```
 
 2. Создай и активируй виртуальное окружение:
