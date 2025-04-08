@@ -13,13 +13,21 @@
 1. Клонируй репозиторий:
 
 
-```git clone https://github.com/MRXafterKRASS/Summarization.git
-cd Summarization```
+```bash
+git clone https://github.com/MRXafterKRASS/Summarization.git
+cd Summarization
+```
 
 2. Создай и активируй виртуальное окружение:
-```python -m venv .venv
-.\.venv\Scripts\activate```
+```bash
+python -m venv .venv
+.\.venv\Scripts\activate
+```
 3. Установи зависимости:
-```pip install -r requirements.txt```
-4. Запусти скрипт:
-```python main.py```
+```bash
+pip install -r requirements.txt
+```
+5. Запусти скрипт:
+```bash
+python main.py
+```
